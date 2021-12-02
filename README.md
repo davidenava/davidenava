@@ -34,7 +34,15 @@ Dillinger uses a number of open source projects to work properly:
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML
 to Markdown converter
 - [jQuery] - duh
-- 
+
+
+> The overriding design goal for Markdown's
+> formatting syntax is to make it as readable
+> as possible. The idea is that a
+> Markdown-formatted document should be
+> publishable as-is, as plain text, without
+> looking like it's been marked up with tags
+> or formatting instructions.
 <!--
 **davidenava/davidenava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
